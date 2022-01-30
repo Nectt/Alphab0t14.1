@@ -14,9 +14,9 @@ global.APIKeys = {
 	'https://zeks.me': 'Alphabott',
 }
 
-global.owner = ['62887435047326','918156874290']
-global.packname = setting.botname
-global.author = setting.ownername
+global.owner = ['6288290013973','0881027218328']
+global.packname = setting.NecttBot
+global.author = setting.Akli
 global.alphaVersion = [2, 2143, 3]
 
 let file = require.resolve(__filename)
